@@ -1,0 +1,9 @@
+{
+  "name": "charasort2",
+  "short_name": "charasort2",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#673ab8"
+}

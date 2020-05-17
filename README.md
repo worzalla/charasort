@@ -23,6 +23,12 @@ TODO: Update this (see old_README in the meantime)
  * [SpinKit](http://tobiasahlin.com/spinkit/) for loading animation.
  * [thsort](http://mainyan.sakura.ne.jp/thsort.html) for the original inspiration.
 
+ * https://preactjs.com/
+ * https://webpack.js.org/
+ * https://day.js.org/
+ * https://purecss.io/start/
+ * https://get.foundation/sites/docs/index.html
+
 ## Known Issues
 
  * Does not work with CloudFlare's Rocket Loader.
