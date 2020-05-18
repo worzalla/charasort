@@ -1,3 +1,14 @@
+// App.tsx
+// ├── Battle.tsx
+// │   └── Selection.tsx
+// │        ├── MemberBio.tsx
+// │        │   └── Contains video clip, biography, and recent Q/A
+// │        ├── MemberImage.tsx
+// │        │   └── Contains name, image, source, and title 
+// │        └── MemberUnknown.tsx
+// ├── Filter.tsx
+// └── RankedData.tsx 
+
 import React from "react";
 import logo from "./logo.svg";
 import Counter from "./features/counter/Counter";
