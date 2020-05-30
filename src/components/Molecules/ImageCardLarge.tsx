@@ -1,0 +1,1 @@
+// A card that shows an image with instances of Info Plates displaying Name, Group, Title, etc.

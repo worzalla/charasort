@@ -1,0 +1,1 @@
+// An image or text that displays the source of the sortable content

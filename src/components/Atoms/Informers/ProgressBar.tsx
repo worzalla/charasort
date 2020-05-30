@@ -1,0 +1,1 @@
+// A bar that displays a fraction of completed vs total competitions

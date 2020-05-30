@@ -1,0 +1,1 @@
+// A card that displays an image and name with a color background

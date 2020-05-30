@@ -1,0 +1,1 @@
+// Rectangle with background and text that emphasizes the text

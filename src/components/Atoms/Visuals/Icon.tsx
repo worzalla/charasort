@@ -1,0 +1,1 @@
+// A small attention-drawing image

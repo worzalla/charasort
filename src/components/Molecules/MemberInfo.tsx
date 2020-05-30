@@ -1,0 +1,1 @@
+// A card that displays biographic information
