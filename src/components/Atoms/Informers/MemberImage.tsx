@@ -1,1 +1,14 @@
 // Displays a picture of the member
+import React, { ReactElement } from 'react'
+
+interface Props {
+    
+}
+
+export default function MemberImage({}: Props): ReactElement {
+    return (
+        <div>
+            
+        </div>
+    )
+}

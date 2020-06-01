@@ -1,1 +1,0 @@
-// Allows the user to filter sorter by individuals' attributes
