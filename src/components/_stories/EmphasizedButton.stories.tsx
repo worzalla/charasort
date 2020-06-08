@@ -6,4 +6,6 @@ export default {
   component: EmphasizedButton,
 };
 
-export const ToStorybook = () => <EmphasizedButton />;
+export const Default = () => <EmphasizedButton />;
+export const WithText = () => <EmphasizedButton text="HELLO" />
+export const OnClick = () => <EmphasizedButton text="Click Me!" onClick={() => { console.log('uwu;;;'); }} />

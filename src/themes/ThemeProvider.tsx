@@ -21,31 +21,3 @@ const ThemeProvider: React.FC = (props) => {
 }
 
 export default ThemeProvider;
-
-//const styles: (theme: Theme) => StyleRules<string> = theme =>
-// createStyles({
-//   root: {
-    
-//   },
-//   app: {
-//     textAlign: "center"
-//   },
-//   appLogo: {
-//     height: "40vmin",
-//     pointerEvents: "none",
-//     "@media (prefers-reduced-motion: no-preference) ": {
-//       animation: "App-logo-float infinite 3s ease-in-out"
-//     }
-//   },
-//   appHeader: {
-//     minHeight: "100vh",
-//     display: "flex",
-//     flexDirection: "column",
-//     alignItems: "center",
-//     justifyContent: "center",
-//     fontSize: "calc(10px + 2vmin)"
-//   },
-//   appLink: {
-//     color: "rgb(112, 76, 182)"
-//   }
-// });
