@@ -4,7 +4,6 @@ import { purple } from '@material-ui/core/colors';
 
 export const userTheme = createMuiTheme({
     palette: {
-        
         primary: {
           // Purple and green play nicely together.
           main: purple[500],

@@ -2,13 +2,16 @@
 import React, { ReactElement } from 'react'
 
 interface Props {
-    
+    generation : number,
+    bloodType : string,
+    age: number,
+    height: number,
 }
 
-export default function BioHeadline({}: Props): ReactElement {
+export default function BioHeadline({generation, bloodType, age, height}: Props): ReactElement {
     return (
-        <div>
-            
-        </div>
+        <p>
+            {generation}ki | {bloodType} | Age {age} | {height} cm
+        </p>
     )
 }

@@ -1,8 +1,8 @@
 import React from 'react';
-import EmphasizedButton from '../Atoms/Buttons/EmphasizedButton';
+import EmphasizedButton from './EmphasizedButton';
 
 export default {
-  title: 'EmphasizedButton',
+  title: 'Atoms/Buttons/EmphasizedButton',
   component: EmphasizedButton,
 };
 
